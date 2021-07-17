@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Student Managment</string>
+    <string name="for_study">For Study</string>
+    <string name="student">Student</string>
 </resources>
